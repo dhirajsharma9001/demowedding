@@ -2060,7 +2060,7 @@ start Responsive style
 
 @media only screen and (max-width : 767px) {
     .footer_social .logo-default {
-        width: 50%;
+        width: 40%;
     }
     .dropdown-menu {
         position: absolute;
