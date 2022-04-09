@@ -5,12 +5,14 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- CSRF Token -->
+    <meta name="csrf-token" content="nOmu3T8iy46ZvlLL8hI8EcJeoMYAJBgiKnZaHrm5">
 
     <title>
         Wedding Planners in Delhi, NCR | The Indian Wedding Company
     </title>
     <meta name="description" content="">
-    <meta name="keywords" content="Every ,great, wedding, theme">
+    <meta name="keywords" content="Venue Selection">
 
     <link rel="icon" href="argon/img/fav/favicon-96x96.png">
     <link rel="apple-touch-icon" href="argon/img/fav/android-icon-48x48.html">
@@ -30,9 +32,40 @@
     <link rel="stylesheet" type="text/css" href="argon/slider/settings.css" />
     <link rel="stylesheet" type="text/css" href="argon/css/jquerysctipttop.css">
     <link rel="stylesheet" type="text/css" href="argon/css/lightbox.css">
-    <link href="stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" crossorigin="anonymous">
+    <!--<link href="stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">-->
+    <link href="stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link rel="stylesheet" href="maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="argon/css/baguetteBox.min.css">
+    <style type="text/css">
+
+        /*.hideContent {
+            overflow: hidden;
+            height: 19em;
+        }
+
+        .showContent {
+            height: auto;
+        }*/
+        .gallery {
+            margin-bottom: 30px;
+        }
+    </style>
+
+
+
+
+    <!-- Scripts -->
+    <!--<meta name="google-site-verification" content="zIS7hUhVAsjTCp7JEPojQmvi-f9PZD-nvLzozs8cPsU" />-->
+    <!-- Global site tag (gtag.js) - Google Ads: 726674515 -->
+    <!--<script async src="https://www.googletagmanager.com/gtag/js?id=AW-726674515"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'AW-726674515');
+
+    </script>-->
 
     <style type="text/css">
 
@@ -48,7 +81,7 @@
         </div>
         <h2 class="text-center">Enquiry Form</h2>
         <div class="scroll">
-            <form method="post" action="">
+            <form method="post" action="#">
                 <input type="hidden" name="_token" value="">
                 <div class="form-group">
                     <label for="name">Name</label>
@@ -81,12 +114,12 @@
     </nav>
     <!-- <div id="main" class="row"> -->
 
-    <section class="fun_fact servicesmain" style="background-image: url(services-image/banner/1564468364.jpg)">
+    <section class="fun_fact servicesmain" style="background-image: url(services-image/banner/1564477311.jpg)">
         <div class="container">
             <div class="row">
                 <div class="col-md-12 text-center">
                     <div class="title">
-                        <h3 style="color:#fff">Wedding Invitation Card</h3>
+                        <h3 style="color:#fff">Venue</h3>
                         <div class="underline"></div>
                     </div>
                     <div class="row">
@@ -94,21 +127,21 @@
                             <ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList">
                                 <meta name="numberOfItems" content="2" />
                                 <meta name="itemListOrder" content="Ascending" />
-                                <li itemprop="itemListElement" class="trail-item trail-begin">
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin">
                                     <a href="index.html" rel="home" itemprop="item">
                                         <span itemprop="name">Home</span>
                                     </a>
                                     <meta itemprop="position" content="1" />
                                 </li>
-                                <li itemprop="itemListElement" class="trail-item">
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item">
                                     <a href="#" itemprop="item">
                                         <span itemprop="name">Services</span>
                                     </a>
                                     <meta itemprop="position" content="2" />
                                 </li>
-                                <li itemprop="itemListElement" class="trail-item">
-                                    <a href="wedding-invitation-card.html" itemprop="item">
-                                        <span itemprop="name">Wedding Invitation Card</span>
+                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item">
+                                    <a href="venue.html" itemprop="item">
+                                        <span itemprop="name">Venue Selection</span>
                                     </a>
                                     <meta itemprop="position" content="3" />
                                 </li>
@@ -125,14 +158,67 @@
         <div class="container">
             <div class="row">
                 <div style="padding-top:10px;" class="col-md-12">
-                    <div class="wow animate fadeInUp content hideContent ">
-                        <img src="services-image/1565175374.jpg" alt="Wedding Invitation Card" style="float:right;padding-left:10px;" width="350px" s /><p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &quot;Open Sans&quot;, Arial, Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);">
+                    <h3 style="color:#4c264a; font-size: 36px;font-weight:bold;">
+                        Venue Selection
+                    </h3>
+                    <div style="width:190px;height:1px;background-color:#EE0547;position:absolute;margin:0 auto;"></div>
+                    <div class="wow animate fadeInUp content hideContent " style="padding-top:10px;">
+                        <img src="services-image/1565175337.jpg" alt="Venue Selection" style="float:right;padding-left:10px;" width="350px" s />
+                        <p class="MsoNormal">
+                            <!--<span style="font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">-->
                             <span class="team_author">
-                                A fabulous invitation is always the life of the party. The most glamorous way to invite is to send the most unexpected invite.
-                                We at Wedding Planners in Delhi take this philosophy forward and bring you the most designer invitations you have ever seen.
-                                Personalisation gives our invites a personality, so they are like works of art.
-                                We believe that every legendary party begins with an unforgettable invite and we specialize in that.
-                            </span><br>
+                                The Indian Wedding Company in Delhi is a pioneer event management company that offers a new approach to venue and facility management. 
+                                Our experienced team has the perfect expertise to manage your venues to make your events successful. 
+                                Success is achieved through proven management methodologies to get maximum results. 
+                                We value hospitality, client relationships and customer service.
+                                Based on this approach we strive to give the best to our clients i:e superior service and complete satisfaction.<o:p></o:p>
+                            </span>
+                        </p>
+                    </div>
+                    <!-- <div class="show-more text-center" >
+                        <button class="btn btn-sm btn-success">Show more</button>
+                    </div> -->
+                </div>
+                <div style="padding-top:10px;" class="col-md-12">
+                    <h3 style="color:#4c264a; font-size: 36px;font-weight:bold;">
+                        Venue Booking
+                    </h3>
+                    <div style="width:190px;height:1px;background-color:#EE0547;position:absolute;margin:0 auto;"></div>
+                    <div class="wow animate fadeInUp content hideContent " style="padding-top:10px;">
+                        <img src="services-image/15651753371.jpg" alt="Venue Selection" style="float:right;padding-left:10px;" width="350px" s />
+                        <p class="MsoNormal">
+                            <span class="team_author">
+                                We as planners are much
+                                more familiar with the capabilities of a space, the layout, and the time and
+                                items you'll need to really transform it. We select wedding venues for you so
+                                that they are utilized to their fullest. We would assist you with marriage
+                                venue selection keeping in mind the guest size, venue policies and
+                                restrictions, venue history,&nbsp;climatic conditions&nbsp;of the city of
+                                wedding, security arrangements&nbsp;, and scope of additional services.&nbsp;<o:p></o:p>
+                            </span>
+                        </p>
+                    </div>
+                    <!-- <div class="show-more text-center" >
+                        <button class="btn btn-sm btn-success">Show more</button>
+                    </div> -->
+                </div>
+                <div style="padding-top:10px;" class="col-md-12">
+                    <h3 style="color:#4c264a; font-size: 36px;font-weight:bold;">
+                        Venue Management
+                    </h3>
+                    <div style="width:240px;height:1px;background-color:#EE0547;position:absolute;margin:0 auto;"></div>
+                    <div class="wow animate fadeInUp content hideContent" style="padding-top:10px;">
+                        <img src="services-image/15651753372.jpg" alt="Venue Selection" style="float:right;padding-left:10px;" width="350px" s />
+                        <p class="MsoNormal">
+                            <span class="team_author">
+                                We as planners are much
+                                more familiar with the capabilities of a space, the layout, and the time and
+                                items you'll need to really transform it. We select wedding venues for you so
+                                that they are utilized to their fullest. We would assist you with marriage
+                                venue selection keeping in mind the guest size, venue policies and
+                                restrictions, venue history,&nbsp;climatic conditions&nbsp;of the city of
+                                wedding, security arrangements&nbsp;, and scope of additional services.&nbsp;<o:p></o:p>
+                            </span>
                         </p>
                     </div>
                     <!-- <div class="show-more text-center" >
@@ -145,40 +231,40 @@
                         <div class="underline"></div>
                     </div>
                 </div>
-                    <div class="tz-gallery">
-                        <div class="col-md-12 row">
-                            <div class="gallery col-md-4">
-                                <a class="lightbox" href="servicegallery/invt1.jpg">
-                                    <img src="servicegallery/invt1.jpg" alt="" style="height: 165px;    width: 285px;">
-                                </a>
-                            </div>
-                            <div class="gallery col-md-4">
-                                <a class="lightbox" href="servicegallery/invt2.jpg">
-                                    <img src="servicegallery/invt2.jpg" alt="" style="height: 165px;    width: 285px;">
-                                </a>
-                            </div>
-                            <div class="gallery col-md-4">
-                                <a class="lightbox" href="servicegallery/invt3.jpg">
-                                    <img src="servicegallery/invt3.jpg" alt="" style="height: 165px;    width: 285px;">
-                                </a>
-                            </div>
-                            <div class="gallery col-md-4">
-                                <a class="lightbox" href="servicegallery/invt6.jpg">
-                                    <img src="servicegallery/invt6.jpg" alt="" style="height: 165px;    width: 285px;">
-                                </a>
-                            </div>
-                            <div class="gallery col-md-4">
-                                <a class="lightbox" href="servicegallery/invt7.jpg">
-                                    <img src="servicegallery/invt7.jpg" alt="" style="height: 165px;    width: 285px;">
-                                </a>
-                            </div>
-                            <div class="gallery col-md-4">
-                                <a class="lightbox" href="servicegallery/invt8.jpg">
-                                    <img src="servicegallery/invt8.jpg" alt="" style="height: 165px;    width: 285px;">
-                                </a>
-                            </div>
+                <div class="tz-gallery">
+                    <div class="col-md-12 row">
+                        <div class="gallery col-md-4">
+                            <a class="lightbox" href="servicegallery/15647370174751-01.jpg">
+                                <img src="servicegallery/15647370174751-01.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="gallery col-md-4">
+                            <a class="lightbox" href="servicegallery/15647370174782-01.jpg">
+                                <img src="servicegallery/15647370174782-01.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="gallery col-md-4">
+                            <a class="lightbox" href="servicegallery/15647370174793-01.jpg">
+                                <img src="servicegallery/15647370174793-01.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="gallery col-md-4">
+                            <a class="lightbox" href="servicegallery/15647370174804-01.jpg">
+                                <img src="servicegallery/15647370174804-01.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="gallery col-md-4">
+                            <a class="lightbox" href="servicegallery/15647370174815-01.jpg">
+                                <img src="servicegallery/15647370174815-01.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="gallery col-md-4">
+                            <a class="lightbox" href="servicegallery/15647370174826-01.jpg">
+                                <img src="servicegallery/15647370174826-01.jpg" alt="">
+                            </a>
                         </div>
                     </div>
+                </div>
             </div>
         </div>
     </section>
@@ -189,7 +275,7 @@
 
     <script src="argon/js/vendor/modernizr.js" defer></script>
     <script src="argon/js/jquery-1.12.4.min.js"></script>
-    <!--<script src="argon/vendor/bootstrap/dist/js/bootstrap.min.js" defer></script>-->
+    <!--<!--<script src="argon/vendor/bootstrap/dist/js/bootstrap.min.js" defer></script>-->-->
     <script type="text/javascript" src="argon/js/script/jquery.rollingslider.js" defer></script>
     <script defer>
         $(document).ready(function () {
@@ -201,7 +287,8 @@
                 autoPlay: false
             });
 
-        })</script>
+        })
+    </script>
 
     <script src="argon/js/vendor/bootstrap.min.js" defer></script>
     <script src="argon/js/vendor/popper.min.js" defer></script>
@@ -213,7 +300,8 @@
                 openEffect: "none",
                 closeEffect: "none"
             });
-        });</script>
+        });
+    </script>
     <script type="text/javascript" src="argon/slider/jquery.themepunch.tools.min.js" defer></script>
     <script type="text/javascript" src="argon/slider/jquery.themepunch.revolution.min.js" defer></script>
     <script type="text/javascript" src="argon/slider/revolution.extension.actions.min.js" defer></script>
@@ -227,12 +315,12 @@
     <script src="argon/js/fancybox.min.js" defer></script>
     <script src="argon/js/lightbox.js" defer></script>
     <script src="argon/js/baguetteBox.min.js" defer></script>
-
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125726289-2" defer></script>
     <script type="text/javascript">
         $(document).ready(function () {
+
             $('#menu').load('header.html');
             $('#footer').load('footer.html');
-
             $(document).on("click", '[data-toggle="lightbox"]', function (event) {
                 event.preventDefault();
                 $(this).ekkoLightbox();
@@ -242,13 +330,14 @@
                 $('.sidebar-contact').toggleClass('active')
                 $('.toggle_right').toggleClass('active')
             })
-        });</script>
+        });
+    </script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
+
     </script>
-
-
 </body>
 </html>
+

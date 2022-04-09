@@ -145,40 +145,40 @@
                         <div class="underline"></div>
                     </div>
                 </div>
-                    <div class="tz-gallery">
-                        <div class="col-md-12 row">
-                            <div class="gallery col-md-4">
-                                <a class="lightbox" href="servicegallery/invt1.jpg">
-                                    <img src="servicegallery/invt1.jpg" alt="" style="height: 165px;    width: 285px;">
-                                </a>
-                            </div>
-                            <div class="gallery col-md-4">
-                                <a class="lightbox" href="servicegallery/invt2.jpg">
-                                    <img src="servicegallery/invt2.jpg" alt="" style="height: 165px;    width: 285px;">
-                                </a>
-                            </div>
-                            <div class="gallery col-md-4">
-                                <a class="lightbox" href="servicegallery/invt3.jpg">
-                                    <img src="servicegallery/invt3.jpg" alt="" style="height: 165px;    width: 285px;">
-                                </a>
-                            </div>
-                            <div class="gallery col-md-4">
-                                <a class="lightbox" href="servicegallery/invt6.jpg">
-                                    <img src="servicegallery/invt6.jpg" alt="" style="height: 165px;    width: 285px;">
-                                </a>
-                            </div>
-                            <div class="gallery col-md-4">
-                                <a class="lightbox" href="servicegallery/invt7.jpg">
-                                    <img src="servicegallery/invt7.jpg" alt="" style="height: 165px;    width: 285px;">
-                                </a>
-                            </div>
-                            <div class="gallery col-md-4">
-                                <a class="lightbox" href="servicegallery/invt8.jpg">
-                                    <img src="servicegallery/invt8.jpg" alt="" style="height: 165px;    width: 285px;">
-                                </a>
-                            </div>
+                <div class="tz-gallery">
+                    <div class="col-md-12 row">
+                        <div class="gallery col-md-4">
+                            <a class="lightbox" href="servicegallery/invt1.jpg">
+                                <img src="servicegallery/invt1.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="gallery col-md-4">
+                            <a class="lightbox" href="servicegallery/invt2.jpg">
+                                <img src="servicegallery/invt2.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="gallery col-md-4">
+                            <a class="lightbox" href="servicegallery/invt3.jpg">
+                                <img src="servicegallery/invt3.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="gallery col-md-4">
+                            <a class="lightbox" href="servicegallery/invt6.jpg">
+                                <img src="servicegallery/invt6.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="gallery col-md-4">
+                            <a class="lightbox" href="servicegallery/invt7.jpg">
+                                <img src="servicegallery/invt7.jpg" alt="">
+                            </a>
+                        </div>
+                        <div class="gallery col-md-4">
+                            <a class="lightbox" href="servicegallery/invt8.jpg">
+                                <img src="servicegallery/invt8.jpg" alt="">
+                            </a>
                         </div>
                     </div>
+                </div>
             </div>
         </div>
     </section>
