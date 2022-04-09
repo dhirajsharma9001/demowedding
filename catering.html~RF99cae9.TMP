@@ -72,8 +72,8 @@
             </form>
         </div>
         <!--<a href="https://api.whatsapp.com/send?phone=918448106668&amp;text=Hi%20Visionvivaah" class="float_w" target="_blank" onclick="ga('create','UA-125726289-2'); ga('send', 'event', 'category-whatsapp', 'action-whatsapp', 'label-whatsapp', 1);">
-        <img src="argon/img/whatsapp.png">
-    </a>-->
+            <img src="argon/img/whatsapp.png">
+        </a>-->
         <a href="#" class="float_w" target="_blank">
             <img src="argon/img/whatsapp.png">
         </a>
@@ -90,29 +90,29 @@
             <div class="row">
                 <div class="col-md-12 text-center">
                     <div class="title">
-                        <h3 style="color:#fff">Accomodation</h3>
+                        <h3 style="color:#fff">Catering</h3>
                         <div class="underline"></div>
                     </div>
                     <div class="row">
                         <div role="navigation" aria-label="Breadcrumbs" class="breadcrumb-trail breadcrumbs" itemprop="breadcrumb">
-                            <ul class="trail-items" itemscope itemtype="http://schema.org/BreadcrumbList">
+                            <ul class="trail-items" >
                                 <meta name="numberOfItems" content="2" />
                                 <meta name="itemListOrder" content="Ascending" />
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item trail-begin">
+                                <li itemprop="itemListElement"  class="trail-item trail-begin">
                                     <a href="index.html" rel="home" itemprop="item">
                                         <span itemprop="name">Home</span>
                                     </a>
                                     <meta itemprop="position" content="1" />
                                 </li>
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item">
+                                <li itemprop="itemListElement"  class="trail-item">
                                     <a href="#" itemprop="item">
                                         <span itemprop="name">Services</span>
                                     </a>
                                     <meta itemprop="position" content="2" />
                                 </li>
-                                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="trail-item">
-                                    <a href="accomodation.html" itemprop="item">
-                                        <span itemprop="name">accomodation</span>
+                                <li itemprop="itemListElement"  class="trail-item">
+                                    <a href="catering.html" itemprop="item">
+                                        <span itemprop="name">Catering</span>
                                     </a>
                                     <meta itemprop="position" content="3" />
                                 </li>
@@ -129,12 +129,12 @@
             <div class="row">
                 <div style="padding-top:10px;" class="col-md-12">
                     <h3 style="color:#4c264a; font-size: 36px;font-weight:bold;">
-                       Hotel Rooms
+                        Menu Selection
                     </h3>
                     <div style="width:200px;height:2px;background-color:#EE0547;position:absolute;margin:0 auto;"></div>
                     <div class="wow animate fadeInUp content hideContent " style="padding-top:10px;">
-                        <img src="services-image/acomodation5.jpg" alt="Catering" style="float:right;padding-left:10px;" width="350px" s /><p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &quot;Open Sans&quot;, Arial, Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);">
-                            <span style="font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">
+                        <img src="services-image/1565175384.jpg" alt="Catering" style="float:right;padding-left:10px;" width="350px" s /><p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &quot;Open Sans&quot;, Arial, Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);">
+                            <span class="team_author">
                                 All you need is Love and Good Food! From
                                 Appetizing, Lip-smacking Chaat, to Mouthwatering, Savoury Main Course, we would
                                 want all the guests to relish the delicacies! <br>
@@ -152,12 +152,12 @@
 
                 <div style="padding-top:10px;" class="col-md-12">
                     <h3 style="color:#4c264a; font-size: 36px;font-weight:bold;">
-                        Guest Houses
+                        Bar Selection
                     </h3>
                     <div style="width:175px;height:2px;background-color:#EE0547;position:absolute;margin:0 auto;"></div>
                     <div class="wow animate fadeInUp content hideContent " style="padding-top:10px;">
-                        <img src="services-image/acomodation3.jpg" alt="Catering" style="float:right;padding-left:10px;" width="350px" s /><p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &quot;Open Sans&quot;, Arial, Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);">
-                            <span style="font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">
+                        <img src="services-image/1565175384.jpg" alt="Catering" style="float:right;padding-left:10px;" width="350px" s /><p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &quot;Open Sans&quot;, Arial, Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);">
+                            <span class="team_author">
                                 All you need is Love and Good Food! From
                                 Appetizing, Lip-smacking Chaat, to Mouthwatering, Savoury Main Course, we would
                                 want all the guests to relish the delicacies! <br>
@@ -174,12 +174,12 @@
                 </div>
                 <div style="padding-top:10px;" class="col-md-12">
                     <h3 style="color:#4c264a; font-size: 36px;font-weight:bold;">
-                        Wedding Bunglows
+                        Hosting & Manpower
                     </h3>
                     <div style="width:285px;height:2px;background-color:#EE0547;position:absolute;margin:0 auto;"></div>
                     <div class="wow animate fadeInUp content hideContent " style="padding-top:10px;">
-                        <img src="services-image/acomodation2.jpg" alt="Catering" style="float:right;padding-left:10px;" width="350px" s /><p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &quot;Open Sans&quot;, Arial, Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);">
-                            <span style="font-size:14.0pt;mso-bidi-font-size:11.0pt;line-height:115%;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-ansi-language:EN-US;mso-fareast-language:EN-US;mso-bidi-language:AR-SA">
+                        <img src="services-image/1565175384.jpg" alt="Catering" style="float:right;padding-left:10px;" width="350px" s /><p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &quot;Open Sans&quot;, Arial, Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);">
+                            <span class="team_author">
                                 All you need is Love and Good Food! From
                                 Appetizing, Lip-smacking Chaat, to Mouthwatering, Savoury Main Course, we would
                                 want all the guests to relish the delicacies! <br>
@@ -194,6 +194,56 @@
                     </div>
 
                 </div>
+
+                <div style="padding-top:10px;" class="col-md-12">
+                    <h3 style="color:#4c264a; font-size: 36px;font-weight:bold;">
+                        Sajan Got
+                    </h3>
+                    <div style="width:130px;height:2px;background-color:#EE0547;position:absolute;margin:0 auto;"></div>
+                    <div class="wow animate fadeInUp content hideContent " style="padding-top:10px;">
+                        <img src="services-image/1565175384.jpg" alt="Catering" style="float:right;padding-left:10px;" width="350px" s /><p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &quot;Open Sans&quot;, Arial, Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);">
+                            <span class="team_author">
+                                All you need is Love and Good Food! From
+                                Appetizing, Lip-smacking Chaat, to Mouthwatering, Savoury Main Course, we would
+                                want all the guests to relish the delicacies! <br>
+                                Top class service, well groomed staff with fine etiquettes, wide variety of
+                                regional and international cuisines to choose from, customizable menu, prompt
+                                service and delivery, we do everything to deliver the Finest Catering
+                                experience!<br>
+                                <!--[if !supportLineBreakNewLine]--><br>
+                                <!--[endif]-->
+                            </span>
+                        </p>
+                    </div>
+
+                </div>
+
+                <div style="padding-top:10px;" class="col-md-12">
+                    <h3 style="color:#4c264a; font-size: 36px;font-weight:bold;">
+                        Crockery & Presentation
+                    </h3>
+                    <div style="width:285px;height:2px;background-color:#EE0547;position:absolute;margin:0 auto;"></div>
+                    <div class="wow animate fadeInUp content hideContent " style="padding-top:10px;">
+                        <img src="services-image/1565175384.jpg" alt="Catering" style="float:right;padding-left:10px;" width="350px" s /><p style="margin-right: 0px; margin-bottom: 15px; margin-left: 0px; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; font-size: 14px; line-height: inherit; font-family: &quot;Open Sans&quot;, Arial, Tahoma, sans-serif; vertical-align: baseline; color: rgb(98, 98, 98); background-color: rgb(252, 252, 252);">
+                            <span class="team_author">
+                                All you need is Love and Good Food! From
+                                Appetizing, Lip-smacking Chaat, to Mouthwatering, Savoury Main Course, we would
+                                want all the guests to relish the delicacies! <br>
+                                Top class service, well groomed staff with fine etiquettes, wide variety of
+                                regional and international cuisines to choose from, customizable menu, prompt
+                                service and delivery, we do everything to deliver the Finest Catering
+                                experience!<br>
+                                <!--[if !supportLineBreakNewLine]--><br>
+                                <!--[endif]-->
+                            </span>
+                        </p>
+                    </div>
+
+                </div>
+
+
+
+
                 <div class="col-md-12 text-center">
                     <div class="title">
                         <h3>Gallery</h3>
@@ -203,33 +253,33 @@
                 <div class="tz-gallery">
                     <div class="col-md-12 row">
                         <div class="gallery col-md-4">
-                            <a class="lightbox" href="servicegallery/15651754261.jpg">
-                                <img src="servicegallery/15651754261.jpg" alt="" style="height: 165px;    width: 285px;">
+                            <a class="lightbox" href="servicegallery/15647371421526-01.jpg">
+                                <img src="servicegallery/15647371421526-01.jpg" alt="">
                             </a>
                         </div>
                         <div class="gallery col-md-4">
-                            <a class="lightbox" href="servicegallery/15651754262.jpg">
-                                <img src="servicegallery/15651754262.jpg" alt="" style="height: 165px;    width: 285px;">
+                            <a class="lightbox" href="servicegallery/15647371421515-01.jpg">
+                                <img src="servicegallery/15647371421515-01.jpg" alt="">
                             </a>
                         </div>
                         <div class="gallery col-md-4">
-                            <a class="lightbox" href="servicegallery/15651754263.jpg">
-                                <img src="servicegallery/15651754263.jpg" alt="" style="height: 165px;    width: 285px;">
+                            <a class="lightbox" href="servicegallery/15647371421422-01.jpg">
+                                <img src="servicegallery/15647371421422-01.jpg" alt="">
                             </a>
                         </div>
                         <div class="gallery col-md-4">
-                            <a class="lightbox" href="servicegallery/15651754264.jpg">
-                                <img src="servicegallery/15651754264.jpg" alt="" style="height: 165px;    width: 285px;">
+                            <a class="lightbox" href="servicegallery/15647371421474-01.jpg">
+                                <img src="servicegallery/15647371421474-01.jpg" alt="">
                             </a>
                         </div>
                         <div class="gallery col-md-4">
-                            <a class="lightbox" href="servicegallery/15651754265.jpg">
-                                <img src="servicegallery/15651754265.jpg" alt="" style="height: 165px;    width: 285px;">
+                            <a class="lightbox" href="servicegallery/1564737142153image-1-01.jpg">
+                                <img src="servicegallery/1564737142153image-1-01.jpg" alt="">
                             </a>
                         </div>
                         <div class="gallery col-md-4">
-                            <a class="lightbox" href="servicegallery/15651754266.jpg">
-                                <img src="servicegallery/15651754266.jpg" alt="" style="height: 165px;    width: 285px;">
+                            <a class="lightbox" href="servicegallery/15647371421463-01.jpg">
+                                <img src="servicegallery/15647371421463-01.jpg" alt="">
                             </a>
                         </div>
                     </div>
